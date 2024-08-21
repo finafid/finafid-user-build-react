@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b0d7845a.css",
-    "main.js": "./static/js/main.a06ed537.js",
+    "main.css": "./static/css/main.bc2be69a.css",
+    "main.js": "./static/js/main.fc7b1322.js",
     "static/js/453.7e559f50.chunk.js": "./static/js/453.7e559f50.chunk.js",
     "static/media/Rectangle.png": "./static/media/Rectangle.df2515d1ca1ec3a57a66.png",
     "static/media/utsav-product-bg.png": "./static/media/utsav-product-bg.44fae82038732d263b25.png",
@@ -10,12 +10,12 @@
     "static/media/Apple Store.png": "./static/media/Apple Store.cd0355f7bf995ba17e2e.png",
     "static/media/Brand bg.png": "./static/media/Brand bg.1edb523d2fdc97778c1c.png",
     "index.html": "./index.html",
-    "main.b0d7845a.css.map": "./static/css/main.b0d7845a.css.map",
-    "main.a06ed537.js.map": "./static/js/main.a06ed537.js.map",
+    "main.bc2be69a.css.map": "./static/css/main.bc2be69a.css.map",
+    "main.fc7b1322.js.map": "./static/js/main.fc7b1322.js.map",
     "453.7e559f50.chunk.js.map": "./static/js/453.7e559f50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0d7845a.css",
-    "static/js/main.a06ed537.js"
+    "static/css/main.bc2be69a.css",
+    "static/js/main.fc7b1322.js"
   ]
 }
