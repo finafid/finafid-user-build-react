@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.f984054d.css",
-    "main.js": "./static/js/main.866acf93.js",
-    "static/js/453.7e559f50.chunk.js": "./static/js/453.7e559f50.chunk.js",
-    "static/media/Rectangle.png": "./static/media/Rectangle.df2515d1ca1ec3a57a66.png",
-    "static/media/utsav-product-bg.png": "./static/media/utsav-product-bg.44fae82038732d263b25.png",
-    "static/media/Google Play.png": "./static/media/Google Play.ccf2d7cc73e29779c392.png",
-    "static/media/Best of Finafid.png": "./static/media/Best of Finafid.7ffc32c9b976749d0c6f.png",
-    "static/media/Apple Store.png": "./static/media/Apple Store.cd0355f7bf995ba17e2e.png",
-    "static/media/Brand bg.png": "./static/media/Brand bg.1edb523d2fdc97778c1c.png",
-    "index.html": "./index.html",
-    "main.f984054d.css.map": "./static/css/main.f984054d.css.map",
-    "main.866acf93.js.map": "./static/js/main.866acf93.js.map",
-    "453.7e559f50.chunk.js.map": "./static/js/453.7e559f50.chunk.js.map"
+    "main.css": "/static/css/main.f26e4d33.css",
+    "main.js": "/static/js/main.044ebf48.js",
+    "static/js/453.7e559f50.chunk.js": "/static/js/453.7e559f50.chunk.js",
+    "static/media/Rectangle.png": "/static/media/Rectangle.df2515d1ca1ec3a57a66.png",
+    "static/media/utsav-product-bg.png": "/static/media/utsav-product-bg.44fae82038732d263b25.png",
+    "static/media/Google Play.png": "/static/media/Google Play.ccf2d7cc73e29779c392.png",
+    "static/media/Best of Finafid.png": "/static/media/Best of Finafid.7ffc32c9b976749d0c6f.png",
+    "static/media/Apple Store.png": "/static/media/Apple Store.cd0355f7bf995ba17e2e.png",
+    "static/media/Brand bg.png": "/static/media/Brand bg.1edb523d2fdc97778c1c.png",
+    "index.html": "/index.html",
+    "main.f26e4d33.css.map": "/static/css/main.f26e4d33.css.map",
+    "main.044ebf48.js.map": "/static/js/main.044ebf48.js.map",
+    "453.7e559f50.chunk.js.map": "/static/js/453.7e559f50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f984054d.css",
-    "static/js/main.866acf93.js"
+    "static/css/main.f26e4d33.css",
+    "static/js/main.044ebf48.js"
   ]
 }
