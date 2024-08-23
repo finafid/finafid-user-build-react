@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6a72e13.css",
-    "main.js": "/static/js/main.ba7add14.js",
+    "main.css": "/static/css/main.5a79969d.css",
+    "main.js": "/static/js/main.df4963b9.js",
     "static/js/453.7e559f50.chunk.js": "/static/js/453.7e559f50.chunk.js",
     "static/media/Rectangle.png": "/static/media/Rectangle.df2515d1ca1ec3a57a66.png",
     "static/media/utsav-product-bg.png": "/static/media/utsav-product-bg.44fae82038732d263b25.png",
@@ -10,12 +10,12 @@
     "static/media/Apple Store.png": "/static/media/Apple Store.cd0355f7bf995ba17e2e.png",
     "static/media/Brand bg.png": "/static/media/Brand bg.1edb523d2fdc97778c1c.png",
     "index.html": "/index.html",
-    "main.c6a72e13.css.map": "/static/css/main.c6a72e13.css.map",
-    "main.ba7add14.js.map": "/static/js/main.ba7add14.js.map",
+    "main.5a79969d.css.map": "/static/css/main.5a79969d.css.map",
+    "main.df4963b9.js.map": "/static/js/main.df4963b9.js.map",
     "453.7e559f50.chunk.js.map": "/static/js/453.7e559f50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6a72e13.css",
-    "static/js/main.ba7add14.js"
+    "static/css/main.5a79969d.css",
+    "static/js/main.df4963b9.js"
   ]
 }
