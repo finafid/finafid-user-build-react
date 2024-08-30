@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.160db335.css",
-    "main.js": "/static/js/main.89c007be.js",
+    "main.css": "/static/css/main.343ef4cb.css",
+    "main.js": "/static/js/main.459f05d0.js",
     "static/js/453.7e559f50.chunk.js": "/static/js/453.7e559f50.chunk.js",
     "static/media/utsav-product-bg.png": "/static/media/utsav-product-bg.44fae82038732d263b25.png",
     "static/media/Rectangle.png": "/static/media/Rectangle.40f50cc30e59f13dec86.png",
+    "static/media/Finafid_Utsav.png": "/static/media/Finafid_Utsav.868a1856603a4d06caa2.png",
     "static/media/Google Play.png": "/static/media/Google Play.ccf2d7cc73e29779c392.png",
     "static/media/Best of Finafid.png": "/static/media/Best of Finafid.7ffc32c9b976749d0c6f.png",
     "static/media/Apple Store.png": "/static/media/Apple Store.cd0355f7bf995ba17e2e.png",
     "static/media/Brand bg.png": "/static/media/Brand bg.1edb523d2fdc97778c1c.png",
     "index.html": "/index.html",
-    "main.160db335.css.map": "/static/css/main.160db335.css.map",
-    "main.89c007be.js.map": "/static/js/main.89c007be.js.map",
+    "main.343ef4cb.css.map": "/static/css/main.343ef4cb.css.map",
+    "main.459f05d0.js.map": "/static/js/main.459f05d0.js.map",
     "453.7e559f50.chunk.js.map": "/static/js/453.7e559f50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.160db335.css",
-    "static/js/main.89c007be.js"
+    "static/css/main.343ef4cb.css",
+    "static/js/main.459f05d0.js"
   ]
 }
