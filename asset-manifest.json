@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c3ce3ae.css",
-    "main.js": "/static/js/main.260860a0.js",
+    "main.css": "/static/css/main.8ba60390.css",
+    "main.js": "/static/js/main.3507db9c.js",
     "static/js/6010.e1a4fd40.chunk.js": "/static/js/6010.e1a4fd40.chunk.js",
     "static/js/6454.94c57273.chunk.js": "/static/js/6454.94c57273.chunk.js",
     "static/js/5332.98c873fb.chunk.js": "/static/js/5332.98c873fb.chunk.js",
@@ -62,8 +62,8 @@
     "static/media/Apple Store.png": "/static/media/Apple Store.cd0355f7bf995ba17e2e.png",
     "static/media/Brand bg.png": "/static/media/Brand bg.1edb523d2fdc97778c1c.png",
     "index.html": "/index.html",
-    "main.5c3ce3ae.css.map": "/static/css/main.5c3ce3ae.css.map",
-    "main.260860a0.js.map": "/static/js/main.260860a0.js.map",
+    "main.8ba60390.css.map": "/static/css/main.8ba60390.css.map",
+    "main.3507db9c.js.map": "/static/js/main.3507db9c.js.map",
     "6010.e1a4fd40.chunk.js.map": "/static/js/6010.e1a4fd40.chunk.js.map",
     "6454.94c57273.chunk.js.map": "/static/js/6454.94c57273.chunk.js.map",
     "5332.98c873fb.chunk.js.map": "/static/js/5332.98c873fb.chunk.js.map",
@@ -118,7 +118,7 @@
     "6274.a9037af9.chunk.js.map": "/static/js/6274.a9037af9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c3ce3ae.css",
-    "static/js/main.260860a0.js"
+    "static/css/main.8ba60390.css",
+    "static/js/main.3507db9c.js"
   ]
 }
