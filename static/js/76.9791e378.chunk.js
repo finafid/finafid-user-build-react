@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinafid_frontend=self.webpackChunkfinafid_frontend||[]).push([[76],{1076:(e,r,n)=>{n.r(r),n.d(r,{default:()=>t});var a=n(3216),f=n(579);const t=()=>{const{referralCode:e}=(0,a.g)();return(0,f.jsx)(a.C5,{to:"/auth?referralCode=".concat(e),replace:!0})}}}]);
+//# sourceMappingURL=76.9791e378.chunk.js.map
